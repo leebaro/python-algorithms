@@ -11,3 +11,6 @@
 
 - [절대값](https://github.com/leebaro/python-algorithms/blob/master/001.Absuolute%20Value/)
     - [절대값](https://github.com/leebaro/python-algorithms/blob/master/001.Absuolute%20Value/Absolute%20Value.ipynb)
+
+- [합계](https://github.com/leebaro/python-algorithms/tree/master/002.Sum)
+    - [합계](https://github.com/leebaro/python-algorithms/blob/master/002.Sum/Sum.ipynb)
