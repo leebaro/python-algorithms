@@ -14,3 +14,6 @@
 
 - [합계](https://github.com/leebaro/python-algorithms/tree/master/002.Sum)
     - [합계](https://github.com/leebaro/python-algorithms/blob/master/002.Sum/Sum.ipynb)
+
+- [최댓값 / 최솟값](https://github.com/leebaro/python-algorithms/tree/master/003.Maximum)
+    - [최댓값 / 최솟값](https://github.com/leebaro/python-algorithms/blob/master/003.Maximum/Maximum.ipynb)
